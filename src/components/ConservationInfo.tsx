@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Binoculars, BookOpen, Users, TrendingUp, Camera, Globe } from 'lucide-react';
+import { Binary as Binoculars, BookOpen, Users, TrendingUp, Camera, Globe } from 'lucide-react';
 import { ConservationScenario } from '../types/butterfly';
 
 const ConservationInfo: React.FC = () => {
